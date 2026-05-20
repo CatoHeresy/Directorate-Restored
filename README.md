@@ -1,28 +1,34 @@
 # Directorate-Restored
 
-What if you never helped Kamea?
+I got tired of Kamea in my BEXT game, always simpering about how we've done so much for her. I started in 3050, we never met! 😤 So I replaced the entire Restoration faction with the Directorate.
 
 This mod provides replacement files for both vanilla install and BEXT in order to flip the Arano Restoration back to the Aurigan Directorate.
 
-For Career mode only! Can be used on an existing save
 
 # Details
 
-Removes all system ownership from Restoration and replaces with Directorate. You start at neutral relations (+10) with them.
+For Career mode only! Can be used on an existing save
 
-Updates the Directorate faction cast file, so you get relation dialogue and mission pass/fail dialogue.
+Removes all system ownership from Restoration and replaces with Directorate. 3 neighbouring independant systems have been gobbled up the relentless Directorate to make it slightly larger.
+
+Updates the Directorate faction cast file, so you get relation dialogue and mission pass/fail dialogue. You start at neutral relations (+10).
 
 Aurigan Restoration has been removed as a mission target for all systems. You will never see Kamea again.
 
-3 neighbouring independant systems have been gobbled up the relentless Directorate to make it slightly larger.
+#
+___The Directorate Advances___
 
-Most Directorate worlds can spawn missions from major factions (if nearby)
+Major factions can spawn missions on nearby Directorate worlds.
 
-The Directorate can spawn missions on nearby Independant, Taurian & Liao worlds.
+The Directorate can spawn missions on Independant & Faction border worlds through the Reach.
 
-Independant, Taurian & Liao worlds can now spawn missions which target the Directorate (if nearby)
+Independant worlds in the Reach can now spawn missions which target the Directorate.
+
+Certain Taurian, Liao, Magistracy & Davion border worlds have a chance to spawn missions targetting the Directorate.
 
 Aurigan Pirates can target the Directorate on all their worlds.
+
+
 
 # Bonus
 Marik is now allowed to spawn missions on Magistracy border worlds
@@ -44,7 +50,7 @@ Vanilla overwrite is tiny, is just updates the Aurigan Directorate faction file 
 BEXT overwrite updates 82 system def files for planets in the reach.
 
 ![Map Preview](/Preview1.jpg)
-_The Directorate Advances_
+
 
 ![Mission Preview](/Preview2.jpg)
 _Stand Firm. Stand Armed. Stand Aurigan._
