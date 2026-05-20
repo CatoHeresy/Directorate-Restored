@@ -43,5 +43,8 @@ Vanilla overwrite is tiny, is just updates the Aurigan Directorate faction file 
 
 BEXT overwrite updates 82 system def files for planets in the reach.
 
+![Map Preview](/Preview1.jpg)
+_The Directorate Advances_
 
-# Stand Firm. Stand Armed. Stand Aurigan.
+![Mission Preview](/Preview2.jpg)
+_Stand Firm. Stand Armed. Stand Aurigan._
