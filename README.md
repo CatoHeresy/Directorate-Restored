@@ -1,39 +1,33 @@
-# Directorate-Restored
+# Directorate-Restored-BEXT
+This mod is for Batteltech Extended Tactics 2.0+ 
 
-I got tired of Kamea in my BEXT game, always simpering about how we've done so much for her. I started in 3050, we never met! 😤 So I replaced the entire Restoration faction with the Directorate.
+This mod will remove the Arano Restoration from your Career game and replace them with the Aurigan Directorate instead.  
 
-This mod provides replacement files for both vanilla install and BEXT in order to flip the Arano Restoration back to the Aurigan Directorate.
+For those of us who never wanted to help Kamea.
+
+![Map Preview](/Preview1.jpg)
 
 
 # Details
-
-For Career mode only! Can be used on an existing save
-
-Removes all system ownership from Restoration and replaces with Directorate. 3 neighbouring independant systems have been gobbled up the relentless Directorate to make it slightly larger.
+Removes all system ownership from Arano Restoration and replaces with Aurigan Directorate. 3 neighbouring independant systems have been gobbled up the relentless Directorate to make it slightly larger.
 
 Updates the Directorate faction cast file, so you get relation dialogue and mission pass/fail dialogue. You start at neutral relations (+10).
 
-Aurigan Restoration has been removed as a mission target for all systems. You will never see Kamea again.
+Aurigan Restoration has been removed as a mission target for all systems.
 
 #
 ___The Directorate Advances___
 
-Major factions can spawn missions on nearby Directorate worlds.
+Enemy faction lists have been updated to target the Directorate. Independant worlds in the Reach can also spawn missions which target the Directorate.
 
-The Directorate can spawn missions on Independant & Faction border worlds through the Reach.
-
-Independant worlds in the Reach can now spawn missions which target the Directorate.
-
-Certain Taurian, Liao, Magistracy & Davion border worlds have a chance to spawn missions targetting the Directorate.
+The Directorate will aggressively spawn missions on Independant & Faction border worlds through the Reach.
 
 Aurigan Pirates can target the Directorate on all their worlds.
 
 
 
-# Bonus
+# Bonus Tweaks
 Marik is now allowed to spawn missions on Magistracy border worlds
-
-Aurigan Pirates now use a pirate rep portrait, rather then the local goverment rep portrait
 
 Aurigan Pirates are now allowed to spawn missions on the small cluster of Taurian & Magistracy worlds they have a presence on.
 
@@ -42,14 +36,7 @@ Aurigan Pirates are now allowed to spawn missions on the small cluster of Tauria
 
 Just drag the folders into your Battletech folder. Note this overwrites the destination, so it may be wise to take a backup first.
 
-
-# Tech Details
-
-Vanilla overwrite is tiny, is just updates the Aurigan Directorate faction file with new lines for contracts and adds a Pilot Rep portrait.
-
 BEXT overwrite updates 82 system def files for planets in the reach.
-
-![Map Preview](/Preview1.jpg)
 
 
 ![Mission Preview](/Preview2.jpg)
