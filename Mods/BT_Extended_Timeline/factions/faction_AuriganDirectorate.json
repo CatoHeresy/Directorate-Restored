@@ -11,26 +11,30 @@
     "Enemies" : [
         "AuriganPirates",
         "AuriganRestoration",
-        "MagistracyOfCanopus"
+		"Locals",
+		"Liao",
+		"Davion",
+        "MagistracyOfCanopus",
+		"NewColonyRegion"
     ],
     "Presence" : 2,
     "ReputationStatements" : [
-        "You are a villain and a scoundrel, and you are unworthy of even the slightest consideration. Even so, our own forces are greatly weakened at this moment\u2014so we're willing to entertain employing you.",
-        "Desperate times call for desperate measures. We wouldn't be asking to hire you unless we had no other choice. Hopefully you can help us.",
+        "Desperate times call for desperate measures. We wouldn't be asking to hire you unless we had no other choice. Hopefully the fee will sway you.",
+        "Weak leadership nearly destroyed this realm. We will not repeat that mistake.",
         "Times are changing, Commander. There is a need in the Directorate for one of your skills. Contracts like this one will pave a way for your future, through us. That future need not be dark.",
         "A rising tide lifts all ships, Commander. House Espinosa is rising quite quickly. Continue to work for us, and we'll ensure you continue to be a prominent figure in the Reach.",
-        "I must say, at this rate I'll soon be calling you a friend, Commander. The Directorate's fortunes are rosy, thanks in no small part to you. Let's continue our relationship, shall we?",
-        "Our influence spreads, as do our garrisons. Your help has been invaluable in this, Commander\u2014and we would like to offer you more work, providing you are not already overwhelmed. Let us know soon, please.",
-        "My friend, I hope this missive finds you well. House Espinosa trusts and values MechWarriors such as yourself and those of your company. This contract is one for only our most esteemed allies, and I do hope you will accept it."
+        "This assignment is important. The people deserve order, prosperity, and safety. I intend to provide all three.",
+        "Our influence spreads, as do our garrisons. Your help has been invaluable in this, Commander.",
+        "History is written by those willing to make difficult decisions. House Espinosa honors you, Commander."
     ],
     "MissionSuccessStatements" : [ 
 		"Excellent work, Commander. I was right to put my faith in you. The Directorate salutes your bravery.",
     ], 
 	"GoodFaithFailureStatements" : [
-		"This is unfortunate. I understand the risks of war, but I do hope this isn't an indication of future performance.",,
+		"A commander may lose a battle. He must never lose his nerve.",
     ],
 	"BadFaithFailureStatements" : [ 
-		"You have failed, Commander. I do hope that occurrences like this will be rare. If they're not, I cannot guarantee Directorate support in the future.",
+		"I find your conduct deeply disappointing. The realm depends upon those willing to stand firm. Today, you were not among them.",
     ],
 	"DefaultCombatLeaderCastDefId" : "castDef_DirectorateDefaultCommander",
     "DefaultRepresentativeCastDefId" : "castDef_EspinosaDefault",
