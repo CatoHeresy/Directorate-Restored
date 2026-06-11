@@ -10,6 +10,7 @@
     ],
     "Enemies" : [
         "AuriganPirates",
+		"PiratesAurigan",
         "AuriganRestoration",
 		"Locals",
 		"Liao",
