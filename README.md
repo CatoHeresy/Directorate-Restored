@@ -22,7 +22,7 @@ Enemy faction lists have been updated to target the Directorate. Independant wor
 
 The Directorate will aggressively spawn missions on Independant & Faction border worlds through the Reach.
 
-Aurigan Pirates can target the Directorate on all their worlds.
+Unlike Arano, the Directorate is allied with the Taurians, not the Magistracy.
 
 
 
