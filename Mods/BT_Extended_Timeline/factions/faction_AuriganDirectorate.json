@@ -6,17 +6,16 @@
     "Demonym" : "Directorate",
     "Government" : "Directorate",
     "Allies" : [
-        "TaurianConcordat"
+        "TaurianConcordat",
+		"ComStar"
     ],
     "Enemies" : [
         "AuriganPirates",
-		"PiratesAurigan",
         "AuriganRestoration",
 		"Locals",
 		"Liao",
 		"Davion",
-        "MagistracyOfCanopus",
-		"NewColonyRegion"
+        "MagistracyOfCanopus"
     ],
     "Presence" : 2,
     "ReputationStatements" : [
